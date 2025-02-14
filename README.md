@@ -15,7 +15,7 @@
 
 ## Habilidades:
 
-**Tecnologias e Ferramentas**: Python, JavaScript, HTML/CSS, Git, Github, Figma.
+**Tecnologias e Ferramentas**: HTML, CSS, JavaScript, Figma, Versionamento com Github.
 
 ## Interesses e Gostos Pessoais
 
