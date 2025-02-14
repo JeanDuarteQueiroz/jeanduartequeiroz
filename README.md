@@ -22,7 +22,7 @@
 ## Interesses e Gostos Pessoais
 
 - **Hobbies**:  Escutar Múscias, Leitura, Séries, Filmes, Documentários, Academia e Caminhadas.
-- **Interesses Profissionais**: Desenvolvimento Web, Mobile e Desktop.
+- **Interesses Profissionais**: Desenvolvimento Web, Mobile e Inteligência Artificial.
 
 ## Objetivos e Aspirações
 
