@@ -2,12 +2,12 @@
 Olá! Eu sou o Jean! 🙌
 --
 Seja bem vindo ao meu:\
-<a href="https://github.com/JeanDuarteQueiroz"> ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) </a>
+<a> ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) </a>
 \
 \
 Mais sobre mim:\
-<a href="https://www.instagram.com/_jeandq/"> ![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>
-<a href="https://www.linkedin.com/in/jean-duarte-queiroz-2490a6258/"> ![ LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://www.instagram.com/_jeandq/" target="_blank"> ![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/jean-duarte-queiroz-2490a6258/" target="_blank"> ![ LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 \
 \
 Habilidades:\
@@ -28,8 +28,8 @@ Wellcome to my:\
 \
 \
 More about me:\
-<a href="https://www.instagram.com/_jeandq/"> ![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>
-<a href="https://www.linkedin.com/in/jean-duarte-queiroz-2490a6258/"> ![ LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://www.instagram.com/_jeandq/" target="_blank"> ![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/jean-duarte-queiroz-2490a6258/" target="_blank"> ![ LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 \
 \
 Skills:\
