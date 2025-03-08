@@ -6,7 +6,7 @@
   Resido em Frederico Westphalen, no Rio Grande do Sul, e estou dedicado a expandir meus conhecimentos e experiências práticas.  
 </p>
 <div>
-  <a href="https://www.instagram.com/_jeandq/" target="_self"> Instagram </a>
+  <a href="https://www.instagram.com/_jeandq/" target="_blank"> Instagram </a> 
   <a href=""> Github </a>
 </div>
 <br>
