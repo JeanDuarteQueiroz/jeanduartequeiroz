@@ -8,8 +8,8 @@ Seja bem vindo ao meu:
 <br>
 <br>
 Mais sobre mim:
+<p>(Clique com o botão direito e selecione "Abrir em nova aba" se preferir)</p>
 <div>
-  <br>
   <a href="https://www.instagram.com/_jeandq/" target="_blank" > <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit"></a>
   <a href="https://www.linkedin.com/in/jean-duarte-queiroz-2490a6258/" target="_blank"> <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
@@ -37,6 +37,7 @@ Wellcome to my:
 <br>
 <br>
 More about me:
+<p>(Right-click and select ‘Open link in new window’ if you prefer)</p>
 <div>
   <br>
   <a href="https://www.instagram.com/_jeandq/" target="_blank" > <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit"></a>
