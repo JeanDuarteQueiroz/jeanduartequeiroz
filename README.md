@@ -26,6 +26,7 @@ Habilidades:
 Obrigado por visitar meu README! Se tiver alguma dúvida ou quiser conversar, sinta-se à vontade para me contatar.
 <br>
 <br>
+<hr>
 
 ![Static Badge](https://img.shields.io/badge/EN-US-BRASIL?style=for-the-badge&logoColor=yellow&color=%23004B94)
 Hi! I'm Jean! 🙌
