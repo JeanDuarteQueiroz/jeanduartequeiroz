@@ -1,5 +1,5 @@
 ## Hi! I'm Jean!
-I work as an N2 Technical Support Analyst. I currently study self-taught and am in constant search of knowledge, creating projects, completing courses and studying documentation. #Future Frontend Developer.
+I work as an Lv2 Technical Support Analyst. I currently study self-taught and am in constant search of knowledge, creating projects, completing courses and studying documentation. #Future Frontend Developer.
 
 ### More about me:
 <quote> (Right-clik and select 'Open link in new windows' if you prefer)
