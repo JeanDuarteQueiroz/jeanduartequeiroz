@@ -1,6 +1,5 @@
 ## Hi! I'm Jean!
-I work as an Lv2 Technical Support Analyst. I currently study self-taught and am in constant search of knowledge, creating projects, completing courses and studying documentation. #Future Frontend Developer.
-
+I turn ideas into incredible, functional interfaces. Combining intuitive, clean and efficient design. Get in touch and let's create experiences together! 🚀
 ### More about me:
 <quote> (Right-clik and select 'Open link in new windows' if you prefer)
 <p>
